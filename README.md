@@ -1,3 +1,3 @@
 # Muxiansen
-![Alt text][https://github.com/Muxiansen/muxiansen/blob/master/images/logo.png?raw=true]
+<img src="https://github.com/Muxiansen/muxiansen/blob/chengzheng/images/logo.png?raw=true" alt="logo">
 我的社交网站
